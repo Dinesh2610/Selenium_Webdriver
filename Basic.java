@@ -48,6 +48,8 @@ public class Basic {
 		Businessdet.click();
 		WebElement businespic = driver.findElement(By.xpath("//*[@id=\"main-menu-navigation\"]/li[3]/ul/li[2]/a/span"));
 		businespic.click();
+		WebElement businespic = driver.findElement(By.xpath("//*[@id=\"main-menu-navigation\"]/li[3]/ul/li[2]/a/span"));
+		businespic.click();
 	}
 
 }
